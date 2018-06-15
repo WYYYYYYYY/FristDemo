@@ -1,0 +1,63 @@
+body {
+	padding-top: 70px;
+	/* overflow-y: scroll; */
+}
+
+table {
+	table-layout: fixed;
+}
+
+table th {
+	cursor: pointer;
+}
+
+table th,table td {
+	text-align: center;
+	white-space: nowrap;
+	overflow: hidden;
+}
+
+.table {
+	margin-bottom: 0;
+}
+
+.navbar {
+	padding: 0 20px;
+}
+
+.navbar-form {
+	padding: 0;
+}
+
+.navbar-form>strong {
+	margin-right: 5px;
+}
+
+.alert {
+	display: none;
+	border-radius: 0;
+}
+
+.panel {
+	border-radius: 0;
+}
+
+.panel-heading>.navbar-form {
+	margin: 0;
+}
+
+.tab-content {
+	padding: 15px 0;
+}
+
+.modal-footer {
+	margin-top: 0;
+}
+
+.panel-footer {
+	padding: 0 15px;
+}
+
+.pagination {
+	margin: 5px 0;
+}
