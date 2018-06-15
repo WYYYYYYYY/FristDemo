@@ -69,7 +69,7 @@ body {
 				<button type="button" class="btn btn-primary btn-block"
 					data-toggle="collapse" data-target="#collapse12"
 					data-parent="#accordion" >
-					学生管理系统
+					学生管理系统1111111
 				</button>
 				
 				<div id="collapse12" class="panel-collapse collapse">
